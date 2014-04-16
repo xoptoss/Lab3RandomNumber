@@ -12,7 +12,7 @@ public class mainClass {
 
 
 		RandomNumber r = new RandomNumber();
-		r.GetANumber_Between_1_and_10(1,10);
+		r.GetANumber_High_Low(1,10);
 		
 		guessRight = false;
 		System.out.println("Im thinking of a number between 1-10, you have 3 chances to guess it! What number am I thinking of?");	
